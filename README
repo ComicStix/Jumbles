@@ -1,0 +1,3 @@
+Read Me
+
+Given a dictionary file and a file of jumbled words, this program determines what actual words in the dictionary the jumbled word unscrambles to.
